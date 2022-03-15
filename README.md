@@ -11,7 +11,7 @@ Made with Unity editor 2019.3 and Google Cardboard API, so this would best work 
 
 This is basically all that you'll see!
 
-First Unity app ever made by myself, so leaving my marks here to celebrate this symbolic moment lel
+...That's really it here, this is the first Unity app ever made by myself, so I'm leaving my marks here to celebrate this symbolic moment lel
 
 ***btw, Misaka Mikoto best girl <3***
 
