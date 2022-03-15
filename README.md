@@ -1,6 +1,6 @@
 # MisakaMikotoCube_VR
  
-![alt-text-1](微信图片_20220315230226.jpg "title-1") ![alt-text-2](misakabbaekom.png "title-2")
+![alt-text-1](微信图片_20220315230226.jpg "title-1") ![alt-text-2](misaka%20bbaekom.png "title-2")
 
 Android VR Game? App? that shows cube of **Misaka Mikoto**s. That's it!
 
