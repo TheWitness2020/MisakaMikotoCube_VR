@@ -1,6 +1,5 @@
 # MisakaMikotoCube_VR
  
-Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![](https://github.com/timingsniper/MisakaMikotoCube_VR/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220315230226.jpg)  |  ![](https://github.com/timingsniper/MisakaMikotoCube_VR/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203152302421.jpg)
 
