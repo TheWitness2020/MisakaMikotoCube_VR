@@ -4,7 +4,7 @@
 
 Android VR Game? App? that shows cube of **Misaka Mikoto**s. That's it!
 
-Download this beauty in apk file [here](https://downgit.github.io/#/home?url=https://github.com/timingsniper/MisakaMikotoCube_VR/blob/main/MisakaCube.apk).
+Download this beauty in apk file [here](https://raw.githubusercontent.com/timingsniper/MisakaMikotoCube_VR/main/MisakaCube.apk).
 
 Made with Unity editor 2019.3 and Google Cardboard API, so this will work best with a Cardboard(-ish) VR goggle. Took a whole day to make, how efficient!
 
