@@ -1,9 +1,5 @@
 # MisakaMikotoCube_VR
  
- <p float="left">
-  <img src="/微信图片_20220315230226.jpg" width="100" />
-  <img src="/微信图片_202203152302421.jpg" width="100" /> 
-  <img src="/img3.png" width="100" />
 </p>
 ![alt-text-1](微信图片_20220315230226.jpg "title-1") ![alt-text-2](微信图片_202203152302421.jpg "title-2")
 
