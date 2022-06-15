@@ -1,16 +1,18 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using static GameCore_Data;
 public class Showdir : MonoBehaviour
 {
-    GameObject pl;
     void Start()
     {
-        pl = GameObject.Find("Playercam");
+
     }
     void Update()
     {
-        this.transform.localRotation = pl.transform.localRotation;
+        if (locked == 0 || locked == 1)
+        {
+            this.transform.rotation = pl.transform.rotation;
+        }
     }
 }
