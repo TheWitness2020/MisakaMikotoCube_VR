@@ -40,9 +40,10 @@ public class Temporarycontrol : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            Physics.gravity = pl.transform.up * -9.8f;
+            locked ^= 1;
+            //Physics.gravity = pl.transform.up * -9.8f;
         }
-        //Physics.gravity = pl.transform.up * -9.8f;
+        if(locked == 1) Physics.gravity = pl.transform.forward * 9.8f;
         //Debug.Log(Physics.gravity);
         //this.transform.rotation = rotation * this.transform.rotation;
     }
